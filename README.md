@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🔨 Tools: Python, R, Tableau, PostgreSQL, D3.js, ElasticSearch, Kibana, Big Data, Hive, PySpark, Presto <br>
 - 🏡 Industries: Payments, Fintech, eCommerce, Wellness <br>
 
-- 💜 So how can I help you? 
+So how can I help you? 💜
