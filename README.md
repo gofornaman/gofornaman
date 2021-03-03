@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I play with data for a living and try to make sense of the patterns that emerges at the intersection of data science and behavioral economics. <br>
-Talks about Payments, Fintech, Consumer tech in India & South-East Asia. <br>
-Currently working with Myanmar's biggest payments app - KBZPay (via Crayon Data). <br>
+- ✨ I play with data for a living and try to make sense of the patterns that emerges at the intersection of data science and behavioral economics. <br>
+- 😄 Talks about Payments, Fintech, Consumer tech in India & South-East Asia. <br>
+- 📊 Currently working with Myanmar's biggest payments app - KBZPay (via Crayon Data). <br>
 
-Tools: Python, R, Tableau, PostgreSQL, D3.js, ElasticSearch, Kibana, Big Data, Hive, PySpark, Presto <br>
-Industries: Payments, eCommerce, Education, Wellness, Consumer tech, Banking <br>
+- 🔨 Tools: Python, R, Tableau, PostgreSQL, D3.js, ElasticSearch, Kibana, Big Data, Hive, PySpark, Presto <br>
+- 🏡 Industries: Payments, eCommerce, Education, Wellness, Consumer tech, Banking <br>
 
-So how can I help you? 
+- 💜 So how can I help you? 
