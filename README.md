@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Talks about Payments, Fintech, Consumer tech in India & South-East Asia. <br>
 - 📊 Currently working with Myanmar's biggest payments app - KBZPay (via Crayon Data). <br>
 
-- 🔨 Tools: Python, R, Tableau, PostgreSQL, D3.js, ElasticSearch, Kibana, Big Data, Hive, PySpark, Presto <br>
+- 🔨 Tools: Python, Tableau, PostgreSQL, D3.js, Kibana, Big Data, Hive, PySpark, Presto, Superset, Metabase <br>
 - 🏡 Industries: Payments, Fintech, eCommerce, Wellness <br>
 
 So how can I help you? 💜
